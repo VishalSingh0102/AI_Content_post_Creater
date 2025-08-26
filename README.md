@@ -1,4 +1,4 @@
-# 📝 AI Content Post Creator
+# 📝 AI LinkedIn Post Generator
 
 An AI-powered tool that helps you **generate high-quality content posts** automatically.  
 This project uses state-of-the-art NLP/ML models to create text content for blogs, social media, and other platforms.
